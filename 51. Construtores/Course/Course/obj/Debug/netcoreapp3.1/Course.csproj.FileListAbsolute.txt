@@ -1,0 +1,19 @@
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\lhfl1\Desktop\$_Materiais\EstudoProgramação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+E:\1. PASTAS\2. MATERIAIS\Estudo Programação\C#\Udemy - C#\51. Construtores\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
