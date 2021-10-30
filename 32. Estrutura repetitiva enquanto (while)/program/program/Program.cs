@@ -5,7 +5,7 @@ namespace program {
     class Program {
         static void Main(string[] args) {
 
-            // estrutura "Enquanto" e repetição
+            // estrutura de repetição "Enquanto"
             Console.Write("Digite um numero: ");
             double x = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
