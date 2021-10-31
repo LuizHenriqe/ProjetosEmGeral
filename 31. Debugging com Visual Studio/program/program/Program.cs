@@ -1,18 +1,21 @@
 ﻿using System;
 
-namespace program {
+namespace Course{
     class Program {
         static void Main(string[] args) {
 
             Console.WriteLine("Digite 3 numeros: ");
 
-            // Para executar o codigo linha por linha aperte F10
+            //F5: Executa o codigo inteiro ou ate o BREAKPOINT.
+            //F10: Executa o codigo linha por linha.
             int n1 = int.Parse(Console.ReadLine());
             int n2 = int.Parse(Console.ReadLine());
-            // Breakpoint: em cima da linha do codigo aperte F9
+            //F9: Cria um Breakpoint.
             int n3 = int.Parse(Console.ReadLine());
 
-            double resultado = Maior(n1, n2, n3); // cpara executar uma linha que contenha uma função aperte F11
+            //F11: Executa linha por linha dentro de uma função fora da principal.
+            double resultado = Maior(n1, n2, n3); 
+
             Console.WriteLine("Maior é = " + resultado);
         }
 
@@ -28,7 +31,7 @@ namespace program {
             else {
                 m = c;
             }
-            return m; // Retorna o valor para quem esta chamando a função.
+            return m;
         }
     }
 }
