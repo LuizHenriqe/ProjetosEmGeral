@@ -7,8 +7,8 @@ namespace ConsoleApp1 {
 
             Triangulo x, y; //declarar variaveis de tipos de classe
 
-            x = new Triangulo(); //instansiando a varivel (criação)
-            y = new Triangulo(); //instansiando a varivel (criação)
+            x = new Triangulo(); //instansiar a varivel (criação)
+            y = new Triangulo(); //instansiar a varivel (criação)
 
             Console.WriteLine("Digite o tamanho da area X:");
             x.A = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);

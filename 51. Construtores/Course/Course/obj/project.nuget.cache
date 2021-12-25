@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TKrOZ51A5yTTm6L8nP62fdC5RnH5ZZ1aoAbRZeRxDJUAJpoSnR2EkM80HjcI+hIGvf+oaKzkleaY8MwrLFYu+A==",
+  "dgSpecHash": "LQOQBoRAdq4XHTrcOjytLeUP0LN8FTt8aSdtNzsbT4Rw5y4CxAFvZ+c8hoFZC7vJngCHVF8cLV1JVgtyE7TP+w==",
   "success": true,
-  "projectFilePath": "E:\\1. PASTAS\\2. MATERIAIS\\Estudo Programação\\C#\\Udemy - C#\\51. Construtores\\Course\\Course\\Course.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\ESTUDO\\GitHub\\CSharp\\51. Construtores\\Course\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

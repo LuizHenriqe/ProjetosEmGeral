@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9liAkW2lT58UEGtD8X3JrzPCnrHaRPsjfACasCnTAPNTm/Y7jiJTjzIyieV5Y9LAHLnSphICDHM/v74ma5cdxw==",
+  "dgSpecHash": "RPsPfZSdy669zZsL08X6A+xZ0PwEir5k7X3tZX55ToPzYrVyP5JqJx1jZjlt90rmtfkyEjJuqaSZ1rPSKHG6Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lhfl1\\Desktop\\AreaTrabalho\\$_Materiais\\EstudoProgramação\\C#\\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\\41. Criando um método para obtermos\\program\\program\\program.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\ESTUDO\\GitHub\\CSharp\\41. Criando um método para obtermos\\program\\program\\program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
