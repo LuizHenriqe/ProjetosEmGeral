@@ -36,4 +36,10 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: #fff;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+#main-container h1 {
+    text-align: center;
 }
