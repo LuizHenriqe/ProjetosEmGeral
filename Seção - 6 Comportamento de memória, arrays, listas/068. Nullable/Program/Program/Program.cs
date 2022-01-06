@@ -35,7 +35,7 @@ namespace Program {
             double? l = null;
             double? m = 10.0;
 
-            //explicação: eu vou jogar o valor de Lem n porem se o L valer nulo ele coloca o seu valor a direita
+            //explicação: eu vou jogar o valor de L em n porem se o L valer nulo ele coloca o seu valor a direita
             double n = l ?? 5.0; 
             double o = m ?? 0.0;
 
