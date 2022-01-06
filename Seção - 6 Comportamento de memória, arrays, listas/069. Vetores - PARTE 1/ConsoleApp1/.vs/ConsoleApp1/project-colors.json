@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48f2b4e0-180d-4965-a783-4ecf17ab5f00": {
+      "ProjectGuid": "48f2b4e0-180d-4965-a783-4ecf17ab5f00",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
