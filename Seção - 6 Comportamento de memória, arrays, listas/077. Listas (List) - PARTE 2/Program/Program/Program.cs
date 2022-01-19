@@ -60,7 +60,7 @@ namespace Program {
             }
 
             Console.WriteLine("-----------------------------------------------");
-            nome.RemoveAll(x => x[0] == 'L'); // remove tudo que conter a letra ele como inicial
+            nome.RemoveAll(x => x[0] == 'L'); // remove tudo que conter a letra L como inicial
             foreach (string obj in nome) {
                 Console.WriteLine(obj);
             }
