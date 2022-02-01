@@ -25,20 +25,24 @@ namespace Renomeiar {
                 string dir = txt_caminho.Text;
                 string keyword = "NFCE";
 
+                //Pega QUANTIDADE de arquivos.
                 var files = Directory.GetFiles(dir, "*.xml");
 
                 for (int i = 0; i < files.Length; i++) {
 
+                    //divide arquivo por arquivo 
                     string oldPath = files[i];
-                    // a  array separa por  \\ colocando cada parte de um caminho dentro dos indices
+                    // a  array separa o caminho todo a cada -> "\\" colocando cada parte de um caminho dentro dos indices
                     string[] partsPath = oldPath.Split(new char[] { '\\' }, StringSplitOptions.RemoveEmptyEntries);
 
-                    //pega o nome do xml completo 0001-000022-001_NFCE35211109350859000103650010000422281011211329-NFCE.XML
+                    //pega o ultimo item do caminho que seria o nome do xml completo 0001-000022-001_NFCE35211109350859000103650010000422281011211329-NFCE.XML
                     string lastPart = partsPath[partsPath.Length - 1];
 
 
                     //cria um novo caminho
                     string newPath = oldPath.Replace(lastPart, "");
+
+                    //
                     int indexNFCE = lastPart.IndexOf(keyword);
 
                     if (indexNFCE > 0 ) {
@@ -57,6 +61,9 @@ namespace Renomeiar {
             catch(Exception ex) {
 
                 MessageBox.Show(ex.Message);
+            }
+            finally {
+                MessageBox.Show("Concluido!!");
             }
 
         }
