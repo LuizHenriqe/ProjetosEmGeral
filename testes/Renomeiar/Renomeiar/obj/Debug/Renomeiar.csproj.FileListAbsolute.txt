@@ -1,0 +1,15 @@
+C:\temp\www\Renomeiar\Renomeiar\bin\Debug\Renomeiar.exe.config
+C:\temp\www\Renomeiar\Renomeiar\bin\Debug\Renomeiar.exe
+C:\temp\www\Renomeiar\Renomeiar\bin\Debug\Renomeiar.pdb
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.csproj.AssemblyReference.cache
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.csproj.SuggestedBindingRedirects.cache
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.Form1.resources
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.Properties.Resources.resources
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.csproj.GenerateResource.cache
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.csproj.CoreCompileInputs.cache
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.exe
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.pdb
+C:\temp\www\Renomeiar\Renomeiar\bin\Debug\Renomeiar.exe.manifest
+C:\temp\www\Renomeiar\Renomeiar\bin\Debug\Renomeiar.application
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.exe.manifest
+C:\temp\www\Renomeiar\Renomeiar\obj\Debug\Renomeiar.application
