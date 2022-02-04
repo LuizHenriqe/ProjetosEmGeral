@@ -44,6 +44,7 @@
             this.txt_caminho.Name = "txt_caminho";
             this.txt_caminho.Size = new System.Drawing.Size(241, 20);
             this.txt_caminho.TabIndex = 1;
+            this.txt_caminho.TextChanged += new System.EventHandler(this.txt_caminho_TextChanged);
             // 
             // label1
             // 
