@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "JhqsMIfi/gUKv2Vf4a2GNNW4DXIhk0yFXsec23a1n6R+OgGosDGEm5mroSIBq2uTv9qU8/hiGWvvUw6K1izRRQ==",
+  "dgSpecHash": "74jKAzXvwR6gItuxTd3GTS0fA8WSKlKySegs8+rn4RVrJMbVbgNBPO74J+QqhmbtXkEZ6dI63eQUOyHTmvXXLQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\www\\WFDotNetCoreGravarDadosMySQL\\WFDotNetCoreGravarDadosMySQL\\WFDotNetCoreGravarDadosMySQL.csproj",
+  "projectFilePath": "C:\\temp\\CSharp\\testes\\WFDotNetCoreGravarDadosMySQL\\WFDotNetCoreGravarDadosMySQL\\WFDotNetCoreGravarDadosMySQL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Henrique\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Henrique\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

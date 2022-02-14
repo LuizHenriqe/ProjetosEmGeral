@@ -93,6 +93,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
             }
             finally {
                 conexao.Close();
+                conexao.Dispose();
             }
 
         }
