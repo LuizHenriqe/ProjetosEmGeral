@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c55f4c65-ad8a-4464-922a-a24a6336a1d7": {
+      "ProjectGuid": "c55f4c65-ad8a-4464-922a-a24a6336a1d7",
+      "DisplayName": "WFDotNetCoreGravarDadosMySQL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
