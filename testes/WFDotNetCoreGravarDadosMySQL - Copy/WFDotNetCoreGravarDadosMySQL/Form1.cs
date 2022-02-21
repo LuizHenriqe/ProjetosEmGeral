@@ -1,15 +1,10 @@
-﻿using System;
+﻿
+using System;
 using System.Windows.Forms;
-using MySql.Data.MySqlClient;
 
 
 namespace WFDotNetCoreGravarDadosMySQL {
     public partial class Form1 : Form {
-
-        private MySqlConnection conexao;
-        private string data_source = "datasource=127.0.0.1;username=root;password=962392087#Luiz;database=db_agenda;";
-
-
         public Form1() {
             InitializeComponent();
 
@@ -26,15 +21,41 @@ namespace WFDotNetCoreGravarDadosMySQL {
         }
 
         private void button1_Click(object sender, EventArgs e) {
+            // instanciando variaveis
+            conn = new MySql.Data.MySqlClient.MySqlConnection();
+            cmd = new MySql.Data.MySqlClient.MySqlCommand();
+
+            conn.ConnectionString= data_source;
+
             try {
+                // open connection.
+                conn.Open();
+                cmd.Connection = conn;
+
+                cmd.Parameters.AddWithValue("@nome", txt_nome.Text);
+                cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
+                cmd.Parameters.AddWithValue("@email", txt_email.Text);
 
 
+                cmd.CommandText = "INSERT INTO contato (nome, telefone, email)" +
+                    " VALUES(@nome, @telefone, @email)";
+                cmd.Prepare();
+
+
+                cmd.ExecuteNonQuery();
+
+                txt_nome.Clear();
+                txt_telefone.Clear();
+                txt_email.Clear();
+
+                MessageBox.Show("Concluido!");
             }
             catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
             finally{
-                conexao.Close();
+                conn.Close();
+                conn.Dispose();
             }
         }
 
@@ -43,14 +64,19 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 
 
             }
+            
             catch (Exception ex) {
                 MessageBox.Show(ex.Message);
             }
             finally {
-                conexao.Close();
-                conexao.Dispose();
+  
             }
+            
 
         }
+        private string data_source = "datasource=127.0.0.1;username=root;password=962392087#Luiz;database=db_agenda;";
+
+        MySql.Data.MySqlClient.MySqlConnection conn;
+        MySql.Data.MySqlClient.MySqlCommand cmd;
     }
 }
