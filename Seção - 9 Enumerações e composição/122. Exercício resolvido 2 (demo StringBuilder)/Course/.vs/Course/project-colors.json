@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a16ca875-3c41-4ba2-a268-fc287a128d53": {
+      "ProjectGuid": "a16ca875-3c41-4ba2-a268-fc287a128d53",
+      "DisplayName": "Course",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

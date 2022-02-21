@@ -1,43 +1,43 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.1": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\": {},
+    "C:\\Users\\lhfl1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\122. Exercício resolvido 2 (demo StringBuilder)\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\120. Exercício resolvido 01 - PARTE 23\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\122. Exercício resolvido 2 (demo StringBuilder)\\Course\\Course\\Course.csproj",
-      "packagesPath": "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\122. Exercício resolvido 2 (demo StringBuilder)\\Course\\Course\\obj\\",
+      "projectPath": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\120. Exercício resolvido 01 - PARTE 23\\Course\\Course\\Course.csproj",
+      "packagesPath": "C:\\Users\\lhfl1\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\CSharp\\Seção - 9 Enumerações e composição\\120. Exercício resolvido 01 - PARTE 23\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\UPDI.LHFL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lhfl1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.0": {
-          "targetAlias": "netcoreapp3.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.0": {
-        "targetAlias": "netcoreapp3.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
