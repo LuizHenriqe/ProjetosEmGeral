@@ -25,7 +25,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
             lst_contatos.Columns.Add("E-mail", 100, HorizontalAlignment.Left);
         }
 
-        private void button1_Click(object sender, EventArgs e) {
+        private void bt_salvar_Click(object sender, EventArgs e) {
             try {
                 
                 Conexao= new MySqlConnection(data_source);
@@ -35,12 +35,15 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = Conexao;
 
-                cmd.Parameters.AddWithValue("@nome",txt_nome.Text);
-                cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
-                cmd.Parameters.AddWithValue("@email", txt_email.Text);
 
                 cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
                                   "VALUES (@nome,@telefone,@email)";
+
+                // Add valores...
+                cmd.Parameters.AddWithValue("@nome",txt_nome.Text);
+                cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
+                cmd.Parameters.AddWithValue("@email", txt_email.Text);
+                
                 cmd.Prepare();
 
 
@@ -62,7 +65,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
             }
         }
 
-        private void button2_Click(object sender, EventArgs e) {
+        private void bt_buscar_Click(object sender, EventArgs e) {
             try {
                 Conexao = new MySqlConnection(data_source);
 
