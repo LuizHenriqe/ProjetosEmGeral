@@ -1,47 +1,39 @@
 ﻿using System;
-using Course.Entities.Enums;
 using Course.Entities;
 using System.Globalization;
 
 namespace Course {
     internal class Program {
         static void Main(string[] args) {
-            Console.Write("Enter Department's name: ");
-            string deptName = Console.ReadLine();
-            Console.WriteLine("Enter worker data:");
-            Console.Write("Name: ");
-            string name =Console.ReadLine();
 
-            Console.Write("Level (Junior/MidLevel/Senior): ");
-            WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
-            
-            Console.Write("BAse salary: ");
-            double basesalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture   );
+            Comment c1 = new Comment("HAve a nice trip");
+            Comment c2 = new Comment("UAu thats awesome");
 
-            Department dept = new Department(deptName);
+            Post p1 = new Post(
+                DateTime.Parse("21/06/2018 13:05:44"),
+                "Traveling to New Zeland",
+                "I'm going to visit this wonderful country",
+                12
+                );
 
-            Worker worker = new Worker(name,level,basesalary,dept);
+            p1.AddComment(c1);
+            p1.AddComment(c2);
 
-            Console.Write("how many contracts to  this worker?");
-            int n = int.Parse(Console.ReadLine());
+            Comment c3 = new Comment("Good night");
+            Comment c4 = new Comment("May the force ber with you");
 
-            for (int i =1; i < n; i++)
-            {
-                Console.WriteLine($"Enter  #{i} contract data: ");
-                Console.Write("Date (DD/MM/YYYY): ");
-                DateTime date = DateTime.Parse(Console.ReadLine());
+            Post p2 = new Post(
+                DateTime.Parse("28/07/2018 23:14:19"),
+                "Good night guys",
+                "See you tomorrow",
+                5
+                );
 
-                Console.Write("Value per hour:");
-                double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                Console.Write("Duration (HOurs): ");
-                int hours = int.Parse(Console.ReadLine());
+            p2.AddComment(c3);
+            p2.AddComment(c4);
 
-                HourContract contract = new HourContract(date, valuePerHour, hours);
-
-                worker.AddContract(contract);
-
-            }
-
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
         }
     }
 }

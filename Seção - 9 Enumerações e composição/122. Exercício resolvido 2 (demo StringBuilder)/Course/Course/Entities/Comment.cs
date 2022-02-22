@@ -9,7 +9,8 @@ namespace Course.Entities {
         public Comment() {
 
         }
-        public Comment(string text) { 
+        public Comment(string text) {
+            Text = text;
         }
     }
 }
