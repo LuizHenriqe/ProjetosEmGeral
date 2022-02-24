@@ -7,7 +7,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
     public partial class Form1 : Form {
 
         private MySqlConnection Conexao;
-        private string data_source = "datasource=127.0.0.1;username=root;password=962392087#Luiz;database=db_agenda;";
+        private string data_source = "datasource=localhost;username=root;password=753759;database=db_agenda;";
 
 
         public Form1() {
@@ -36,7 +36,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 cmd.Connection = Conexao;
 
 
-                cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
+                cmd.CommandText = "INSERT INTO contatos (nome, telefone, email) " +
                                   "VALUES (@nome,@telefone,@email)";
 
                 // Add valores...
@@ -68,32 +68,33 @@ namespace WFDotNetCoreGravarDadosMySQL {
         private void bt_buscar_Click(object sender, EventArgs e) {
             try {
                 Conexao = new MySqlConnection(data_source);
+                Conexao.Open() ;
 
-                string q = " '%"+txt_buscar.Text+"%' ";
-                string sql = "SELECT * FROM contato WHERE nome LIKE"+q+"OR email LIKE"+q;
+                MySqlCommand cmd = new MySqlCommand();
+                cmd.Connection=Conexao;
 
-                Conexao.Open();
+                cmd.Parameters.AddWithValue("@q","%" + txt_buscar.Text+"%");
 
-                //vincular comando.
-                MySqlCommand comando = new MySqlCommand(sql, Conexao);
+                cmd.CommandText = "SELECT * FROM contatos WHERE nome LIKE @q OR email LIKE @q";
 
-                MySqlDataReader reader = comando.ExecuteReader();
+                cmd.Prepare();
+
+
+                MySqlDataReader reader = cmd.ExecuteReader();
 
                 lst_contatos.Items.Clear();
 
-                while (reader.Read()) {
+                while (reader.Read())
+                {
                     string[] row = {
                         reader.GetString(0),
                         reader.GetString(1),
                         reader.GetString(2),
-                        reader.GetString(3),
+                        reader.GetString(3)
                     };
-
-                    var linha_listview = new ListViewItem(row);
-
-                    lst_contatos.Items.Add(linha_listview);
+                    
+                    lst_contatos.Items.Add(new ListViewItem(row));    
                 }
-                
 
             }
             catch (Exception ex) {
