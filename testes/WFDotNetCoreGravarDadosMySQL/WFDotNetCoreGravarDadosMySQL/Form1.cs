@@ -23,6 +23,8 @@ namespace WFDotNetCoreGravarDadosMySQL {
             lst_contatos.Columns.Add("Nome", 100, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("Telefone", 100, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("E-mail", 100, HorizontalAlignment.Left);
+
+            carregar_contatos();
         }
 
         private void bt_salvar_Click(object sender, EventArgs e) {
@@ -63,6 +65,57 @@ namespace WFDotNetCoreGravarDadosMySQL {
             finally {
                 Conexao.Close();
             }
+
+            txt_email.Text = String.Empty;
+            txt_nome.Text = String.Empty;
+            txt_telefone.Text = String.Empty;
+
+
+            carregar_contatos();
+        }
+
+        private void carregar_contatos()
+        {
+
+            try
+            {
+                Conexao = new MySqlConnection(data_source);
+                Conexao.Open();
+
+                MySqlCommand cmd = new MySqlCommand();
+
+                cmd.Connection = Conexao;
+                cmd.CommandText = "SELECT * FROM contatos ORDER BY id DESC";
+                cmd.Prepare();
+
+
+                MySqlDataReader reader = cmd.ExecuteReader();
+
+                lst_contatos.Items.Clear();
+
+                while (reader.Read())
+                {
+                    string[] row = {
+                        reader.GetString(0),
+                        reader.GetString(1),
+                        reader.GetString(2),
+                        reader.GetString(3)
+                    };
+
+                    lst_contatos.Items.Add(new ListViewItem(row));
+                }
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                Conexao.Close();
+                Conexao.Dispose();
+            }
+
         }
 
         private void bt_buscar_Click(object sender, EventArgs e) {

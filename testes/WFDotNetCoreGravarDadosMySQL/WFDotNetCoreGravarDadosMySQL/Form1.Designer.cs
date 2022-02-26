@@ -99,7 +99,7 @@
             this.lst_contatos.HideSelection = false;
             this.lst_contatos.Location = new System.Drawing.Point(236, 85);
             this.lst_contatos.Name = "lst_contatos";
-            this.lst_contatos.Size = new System.Drawing.Size(319, 113);
+            this.lst_contatos.Size = new System.Drawing.Size(357, 267);
             this.lst_contatos.TabIndex = 7;
             this.lst_contatos.UseCompatibleStateImageBehavior = false;
             // 
@@ -107,12 +107,12 @@
             // 
             this.txt_buscar.Location = new System.Drawing.Point(236, 56);
             this.txt_buscar.Name = "txt_buscar";
-            this.txt_buscar.Size = new System.Drawing.Size(261, 20);
+            this.txt_buscar.Size = new System.Drawing.Size(299, 20);
             this.txt_buscar.TabIndex = 8;
             // 
             // bt_buscar
             // 
-            this.bt_buscar.Location = new System.Drawing.Point(503, 56);
+            this.bt_buscar.Location = new System.Drawing.Point(541, 56);
             this.bt_buscar.Name = "bt_buscar";
             this.bt_buscar.Size = new System.Drawing.Size(52, 20);
             this.bt_buscar.TabIndex = 9;
@@ -133,7 +133,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(590, 235);
+            this.ClientSize = new System.Drawing.Size(653, 388);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.bt_buscar);
             this.Controls.Add(this.txt_buscar);
