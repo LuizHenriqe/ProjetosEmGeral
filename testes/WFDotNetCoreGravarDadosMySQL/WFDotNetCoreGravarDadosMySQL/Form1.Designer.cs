@@ -102,6 +102,7 @@
             this.lst_contatos.Size = new System.Drawing.Size(357, 267);
             this.lst_contatos.TabIndex = 7;
             this.lst_contatos.UseCompatibleStateImageBehavior = false;
+            this.lst_contatos.SelectedIndexChanged += new System.EventHandler(this.lst_contatos_SelectedIndexChanged);
             // 
             // txt_buscar
             // 

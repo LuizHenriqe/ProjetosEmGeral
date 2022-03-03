@@ -159,5 +159,10 @@ namespace WFDotNetCoreGravarDadosMySQL {
             }
 
         }
+
+        private void lst_contatos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
