@@ -7,7 +7,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
     public partial class Form1 : Form {
 
         private MySqlConnection Conexao;
-        private string data_source = "datasource=localhost;username=root;password=753759;database=db_agenda;";
+        private string data_source = "datasource=localhost;username=root;password=962392087#Luiz;database=db_agenda;";
 
 
         public Form1() {
@@ -38,7 +38,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 cmd.Connection = Conexao;
 
 
-                cmd.CommandText = "INSERT INTO contatos (nome, telefone, email) " +
+                cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
                                   "VALUES (@nome,@telefone,@email)";
 
                 // Add valores...
@@ -85,7 +85,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 MySqlCommand cmd = new MySqlCommand();
 
                 cmd.Connection = Conexao;
-                cmd.CommandText = "SELECT * FROM contatos ORDER BY id DESC";
+                cmd.CommandText = "SELECT * FROM contato ORDER BY id DESC";
                 cmd.Prepare();
 
 
@@ -104,7 +104,6 @@ namespace WFDotNetCoreGravarDadosMySQL {
 
                     lst_contatos.Items.Add(new ListViewItem(row));
                 }
-
             }
             catch (Exception ex)
             {
@@ -128,7 +127,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
 
                 cmd.Parameters.AddWithValue("@q","%" + txt_buscar.Text+"%");
 
-                cmd.CommandText = "SELECT * FROM contatos WHERE nome LIKE @q OR email LIKE @q";
+                cmd.CommandText = "SELECT * FROM contato WHERE nome LIKE @q OR email LIKE @q";
 
                 cmd.Prepare();
 
@@ -163,6 +162,11 @@ namespace WFDotNetCoreGravarDadosMySQL {
         private void lst_contatos_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void lst_contatos_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e) 
+        {
+            
         }
     }
 }

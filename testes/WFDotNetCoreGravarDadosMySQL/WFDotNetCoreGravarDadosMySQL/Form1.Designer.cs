@@ -98,10 +98,12 @@
             // 
             this.lst_contatos.HideSelection = false;
             this.lst_contatos.Location = new System.Drawing.Point(236, 85);
+            this.lst_contatos.MultiSelect = false;
             this.lst_contatos.Name = "lst_contatos";
             this.lst_contatos.Size = new System.Drawing.Size(357, 267);
             this.lst_contatos.TabIndex = 7;
             this.lst_contatos.UseCompatibleStateImageBehavior = false;
+            this.lst_contatos.ItemSelectionChanged += new System.Windows.Forms.ListViewItemSelectionChangedEventHandler(this.lst_contatos_ItemSelectionChanged);
             this.lst_contatos.SelectedIndexChanged += new System.EventHandler(this.lst_contatos_SelectedIndexChanged);
             // 
             // txt_buscar
