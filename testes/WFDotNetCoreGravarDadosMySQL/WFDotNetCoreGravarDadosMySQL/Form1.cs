@@ -9,6 +9,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
         private MySqlConnection Conexao;
         private string data_source = "datasource=localhost;username=root;password=962392087#Luiz;database=db_agenda;";
 
+        private int? id_contato_selecionado = null;
 
         public Form1() {
             InitializeComponent();
@@ -16,8 +17,10 @@ namespace WFDotNetCoreGravarDadosMySQL {
             lst_contatos.View = View.Details;
             lst_contatos.LabelEdit = true;
             lst_contatos.AllowColumnReorder = true;
-            lst_contatos.FullRowSelect = true;
+            
             lst_contatos.GridLines = true;
+            lst_contatos.MultiSelect = false;
+           
 
             lst_contatos.Columns.Add("ID", 30, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("Nome", 100, HorizontalAlignment.Left);
@@ -38,20 +41,41 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 cmd.Connection = Conexao;
 
 
-                cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
-                                  "VALUES (@nome,@telefone,@email)";
+                if(id_contato_selecionado != null)
+                {
+                    cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
+                                      "VALUES (@nome,@telefone,@email)";
 
-                // Add valores...
-                cmd.Parameters.AddWithValue("@nome",txt_nome.Text);
-                cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
-                cmd.Parameters.AddWithValue("@email", txt_email.Text);
-                
-                cmd.Prepare();
+                    // Add valores...
+                    cmd.Parameters.AddWithValue("@nome", txt_nome.Text);
+                    cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
+                    cmd.Parameters.AddWithValue("@email", txt_email.Text);
+
+                    cmd.Prepare();
 
 
-                cmd.ExecuteNonQuery();
+                    cmd.ExecuteNonQuery();
 
-                MessageBox.Show("Contato inserido com sucesso!","Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Contato inserido com sucesso!", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    cmd.CommandText = "UPDATE contato SET nome=@nome, telefone=@telefone, email=@email WHERE id=@id";
+
+                    // Add valores...
+                    cmd.Parameters.AddWithValue("@nome", txt_nome.Text);
+                    cmd.Parameters.AddWithValue("@telefone", txt_telefone.Text);
+                    cmd.Parameters.AddWithValue("@email", txt_email.Text);
+                    cmd.Parameters.AddWithValue("@id", id_contato_selecionado);
+
+
+                    cmd.Prepare();
+
+
+                    cmd.ExecuteNonQuery();
+
+                    MessageBox.Show("Contato Atualizado com sucesso!", "Sucesso!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
 
             }
             catch (MySqlException ex) {
@@ -166,7 +190,22 @@ namespace WFDotNetCoreGravarDadosMySQL {
 
         private void lst_contatos_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e) 
         {
-            
+            ListView.SelectedListViewItemCollection itens_selecionados = lst_contatos.SelectedItems;
+
+            foreach (ListViewItem item in itens_selecionados)
+            {
+                id_contato_selecionado = Convert.ToInt32(item.SubItems[0].Text);
+
+                txt_nome.Text = item.SubItems[1].Text;
+                txt_telefone.Text = item.SubItems[2].Text;
+                txt_email.Text = item.SubItems[3].Text;
+
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

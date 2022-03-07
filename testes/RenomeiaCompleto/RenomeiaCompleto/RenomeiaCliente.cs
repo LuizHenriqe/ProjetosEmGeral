@@ -37,8 +37,8 @@ namespace RenomeiaCompleto {
                     // divide arquivo por arquivo 
                     string oldPath = files[i];
 
-                    // a array separa o caminho todo a cada -> "\\" colocando cada 
-                    // parte de um caminho dentro dos indices na variavel
+                    // a array separa o caminho todo a cada -> "\\" 
+                    // colocando cada parte de um caminho dentro dos indices na variavel
                     string[] partsPath = oldPath.Split(new char[] { '\\' }, StringSplitOptions.RemoveEmptyEntries);
 
                     // pega o ultimo item do caminho que seria o nome do xml completo por exemplo
