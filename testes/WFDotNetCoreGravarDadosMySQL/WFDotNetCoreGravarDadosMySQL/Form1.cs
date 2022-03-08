@@ -7,7 +7,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
     public partial class Form1 : Form {
 
         private MySqlConnection Conexao;
-        private string data_source = "datasource=localhost;username=root;password=962392087#Luiz;database=db_agenda;";
+        private string data_source = "datasource=localhost;username=root;password=1234;database=db_agenda";
 
         private int? id_contato_selecionado = null;
 
@@ -17,15 +17,14 @@ namespace WFDotNetCoreGravarDadosMySQL {
             lst_contatos.View = View.Details;
             lst_contatos.LabelEdit = true;
             lst_contatos.AllowColumnReorder = true;
-            
             lst_contatos.GridLines = true;
             lst_contatos.MultiSelect = false;
            
 
             lst_contatos.Columns.Add("ID", 30, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("Nome", 100, HorizontalAlignment.Left);
-            lst_contatos.Columns.Add("Telefone", 100, HorizontalAlignment.Left);
             lst_contatos.Columns.Add("E-mail", 100, HorizontalAlignment.Left);
+            lst_contatos.Columns.Add("Telefone", 100, HorizontalAlignment.Left);
 
             carregar_contatos();
         }
@@ -41,7 +40,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
                 cmd.Connection = Conexao;
 
 
-                if(id_contato_selecionado != null)
+                if(id_contato_selecionado == null)
                 {
                     cmd.CommandText = "INSERT INTO contato (nome, telefone, email) " +
                                       "VALUES (@nome,@telefone,@email)";
