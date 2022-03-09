@@ -25,15 +25,15 @@ namespace RenomeiaCompleto2 {
 
                 for (int i = 0; i < files.Length; i++) {
 
-                    string caminhoAntigo = files[i];
+                    string OldPath = files[i];
 
-                    string[] partesCaminhoAntigo = caminhoAntigo.Split(new char[] { '\\' }, StringSplitOptions.RemoveEmptyEntries);
+                    string[] partesCaminhoAntigo = OldPath.Split(new char[] { '\\' }, StringSplitOptions.RemoveEmptyEntries);
 
                     string ultimaParte = partesCaminhoAntigo[partesCaminhoAntigo.Length - 1];
 
                     string newName = keyword + ultimaParte;
 
-                    string newPath = caminhoAntigo.Replace(ultimaParte, "");
+                    string newPath = OldPath.Replace(ultimaParte, "");
 
                     newPath += newName;
 
