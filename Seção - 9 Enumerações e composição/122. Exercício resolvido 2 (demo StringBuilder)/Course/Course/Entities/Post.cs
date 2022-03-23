@@ -35,6 +35,7 @@ namespace Course.Entities {
         {
 
             StringBuilder sb = new StringBuilder();
+
             sb.AppendLine(Title);
             sb.Append(Likes);
             sb.Append(" Likes - ");
