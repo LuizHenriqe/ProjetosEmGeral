@@ -1,0 +1,83 @@
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.exe
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.deps.json
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.json
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.dev.json
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.dll
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.pdb
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\RestSharp.dll
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csprojAssemblyReference.cache
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.Form1.resources
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.GenerateResource.cache
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfoInputs.cache
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfo.cs
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CoreCompileInputs.cache
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CopyComplete
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.dll
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.pdb
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.genruntimeconfig.cache
+D:\MDC set 2019\Projetos TI diversos\Smart\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.exe
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.deps.json
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.json
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.dev.json
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.AssemblyReference.cache
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.Form1.resources
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.GenerateResource.cache
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfoInputs.cache
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfo.cs
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CoreCompileInputs.cache
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\Projetos\executaveis\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.genruntimeconfig.cache
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.exe
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.deps.json
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.json
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.dev.json
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\RestSharp.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.AssemblyReference.cache
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.Form1.resources
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.GenerateResource.cache
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfoInputs.cache
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfo.cs
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CoreCompileInputs.cache
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CopyComplete
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\Projeto\BaixaJsonTxt\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.genruntimeconfig.cache
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.exe
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.deps.json
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.json
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.runtimeconfig.dev.json
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\bin\Debug\net5.0-windows\RestSharp.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.AssemblyReference.cache
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.Form1.resources
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.GenerateResource.cache
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfoInputs.cache
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.AssemblyInfo.cs
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CoreCompileInputs.cache
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.csproj.CopyComplete
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\ref\BaixaJsonTxt.dll
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.pdb
+C:\temp\Dev\BaixaJsonTxt\BaixaJsonTxt\obj\Debug\net5.0-windows\BaixaJsonTxt.genruntimeconfig.cache
