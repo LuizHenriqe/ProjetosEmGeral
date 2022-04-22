@@ -1,0 +1,41 @@
+﻿@model IEnumerable<WebMembro.Models.Membro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Pagina cadastro Principal</h1>
+
+<p>
+    <a asp-action="Create">Cadastre um Novo Membro</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberEmail)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MemberID">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.MemberID">Detalhes Membro</a> |
+                <a asp-action="Delete" asp-route-id="@item.MemberID">Deletar Membro</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
