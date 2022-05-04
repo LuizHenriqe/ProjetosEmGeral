@@ -32,7 +32,7 @@ namespace WFDotNetCoreGravarDadosMySQL {
         private void bt_salvar_Click(object sender, EventArgs e) {
             try {
                 
-                Conexao= new MySqlConnection(data_source);
+                Conexao = new MySqlConnection(data_source);
 
                 Conexao.Open();
                 
