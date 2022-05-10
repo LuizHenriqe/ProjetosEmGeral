@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TLCyxYNZ/g26qLJaytzXUDEj9eM5Kf4d3MtsZIVgJnXkLKdOBl0BBKmpK6QkLlP0OlUUVrlTtaAHZMNU0c4ncA==",
+  "dgSpecHash": "Qh1TkMo2essdWzx8jS4w76JONtq6tjEcZwpUjjafLds8inbUH3ir9Kh00hOt8f1WwaoDIvPyU78PrL3hCoWmxw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Dev\\WebMembro\\WebMembro\\WebMembro.csproj",
+  "projectFilePath": "C:\\Projetos\\ProjetosEmGeral\\Dev\\WebMembro\\WebMembro\\WebMembro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -127,8 +127,7 @@
     "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
