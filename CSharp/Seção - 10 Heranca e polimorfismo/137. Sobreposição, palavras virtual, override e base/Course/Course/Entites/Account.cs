@@ -19,8 +19,8 @@ namespace Course.Entites {
             Balance = balance;
         }
 
-        public void WithDraw(double amount) {
-            Balance -= amount;
+        public virtual void WithDraw(double amount) {
+            Balance -= amount + 5.0;
         }
         public void Deposit(double amount) {
             Balance += amount;
