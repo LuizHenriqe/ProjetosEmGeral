@@ -7149,7 +7149,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\": {},
+    "C:\\Users\\lhfl1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -7158,14 +7158,18 @@
       "projectUniqueName": "C:\\Projetos\\ProjetosEmGeral\\Dev\\WebMembro\\WebMembro\\WebMembro.csproj",
       "projectName": "WebMembro",
       "projectPath": "C:\\Projetos\\ProjetosEmGeral\\Dev\\WebMembro\\WebMembro\\WebMembro.csproj",
+<<<<<<< Updated upstream
       "packagesPath": "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\",
+=======
+      "packagesPath": "C:\\Users\\lhfl1\\.nuget\\packages\\",
+>>>>>>> Stashed changes
       "outputPath": "C:\\Projetos\\ProjetosEmGeral\\Dev\\WebMembro\\WebMembro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\UPDI.LHFL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lhfl1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
