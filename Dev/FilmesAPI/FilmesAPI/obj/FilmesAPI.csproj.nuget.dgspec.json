@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lhfl1\\Área de Trabalho\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
+    "C:\\Projetos\\ProjetosEmGeral\\Dev\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lhfl1\\Área de Trabalho\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
+    "C:\\Projetos\\ProjetosEmGeral\\Dev\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lhfl1\\Área de Trabalho\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectUniqueName": "C:\\Projetos\\ProjetosEmGeral\\Dev\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "C:\\Users\\lhfl1\\Área de Trabalho\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+        "projectPath": "C:\\Projetos\\ProjetosEmGeral\\Dev\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
         "packagesPath": "C:\\Users\\lhfl1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lhfl1\\Área de Trabalho\\FilmesAPI\\FilmesAPI\\obj\\",
+        "outputPath": "C:\\Projetos\\ProjetosEmGeral\\Dev\\FilmesAPI\\FilmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
