@@ -48,11 +48,14 @@ namespace RenomeiaCompleto2 {
                     int indexNFCE = lastPart.IndexOf(keyword);
 
                     if (indexNFCE > 0) {
-                        //começa na posição 20 no nome do arquivo, apo isso ele escreve ate posição 53 posiçoes no nome do arquivo
+                        //começa na posição 20 no nome do arquivo, apos isso ele escreve ate posição 53 posiçoes no nome do arquivo
                         string newName = lastPart.Substring(indexNFCE + keyword.Length, lastPart.Length - indexNFCE - keyword.Length);
 
                         newPath += newName;
                         File.Move(files[i], newPath);
+                        
+
+
 
                     }
                     else {
