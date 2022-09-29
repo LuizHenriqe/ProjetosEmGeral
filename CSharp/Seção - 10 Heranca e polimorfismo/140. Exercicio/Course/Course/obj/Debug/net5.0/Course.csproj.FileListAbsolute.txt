@@ -1,0 +1,16 @@
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.exe
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.dll
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.dll
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\refint\Course.dll
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
+C:\Projetos\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\140. Exercicio\Course\Course\obj\Debug\net5.0\ref\Course.dll

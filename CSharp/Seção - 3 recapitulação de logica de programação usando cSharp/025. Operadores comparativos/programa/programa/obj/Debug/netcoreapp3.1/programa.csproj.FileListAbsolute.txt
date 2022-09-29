@@ -1,0 +1,13 @@
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.exe
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.deps.json
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.json
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.dev.json
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.dll
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\bin\Debug\netcoreapp3.1\programa.pdb
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.csprojAssemblyReference.cache
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfoInputs.cache
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfo.cs
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.csproj.CoreCompileInputs.cache
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.dll
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.pdb
+C:\Users\lhfl1\Desktop\C#\Udemy - C# COMPLETO Programação Orientada a Objetos + Projetos\25. Operadores comparativos\programa\programa\obj\Debug\netcoreapp3.1\programa.genruntimeconfig.cache

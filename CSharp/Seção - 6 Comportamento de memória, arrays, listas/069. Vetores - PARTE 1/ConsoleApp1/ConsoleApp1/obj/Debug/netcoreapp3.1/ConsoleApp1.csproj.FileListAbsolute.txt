@@ -1,0 +1,27 @@
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\6. Estudo-Programação\C#\Udemy - C#\69. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ESTUDO\GitHub\CSharp\Seção - 6 Comportamento de memória, arrays, listas\069. Vetores - PARTE 1\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

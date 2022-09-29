@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnBwgDf6RsFXgBRudmGmA1roSFW85z1rxU4yAY5oQoz9QDq3pFds5m9bxEXwcDJzqMz68fLbCSpmEX4R9tpobw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\CSharp\\testes\\WFDotNetCoreGravarDadosMySQL - Copy\\WFDotNetCoreGravarDadosMySQL\\WFDotNetCoreGravarDadosMySQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\bouncycastle\\1.8.5\\bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\mysql.data\\8.0.28\\mysql.data.8.0.28.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\UPDI.LHFL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

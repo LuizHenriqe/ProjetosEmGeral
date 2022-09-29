@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lh4xkitSwv496DzJciq+DRJ87NwfOqLiwzsYVE3HH54N+5HBdzd/mGkzyj1fT3QjGdcopFvpMPjMLEUGhAcZ1Q==",
+  "success": true,
+  "projectFilePath": "E:\\ESTUDO\\GitHub\\CSharp\\Seção - 6 Comportamento de memória, arrays, listas\\068. Nullable\\Program\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

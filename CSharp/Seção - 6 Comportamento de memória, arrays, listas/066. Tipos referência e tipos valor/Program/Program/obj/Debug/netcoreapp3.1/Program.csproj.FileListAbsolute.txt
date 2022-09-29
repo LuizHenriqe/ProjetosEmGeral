@@ -1,0 +1,27 @@
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+E:\4. ESTUDO\Estudo Programação\C#\Udemy - C#\66. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.AssemblyReference.cache
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\temp\CSharp\Seção - 6 Comportamento de memória, arrays, listas\066. Tipos referência e tipos valor\Program\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache

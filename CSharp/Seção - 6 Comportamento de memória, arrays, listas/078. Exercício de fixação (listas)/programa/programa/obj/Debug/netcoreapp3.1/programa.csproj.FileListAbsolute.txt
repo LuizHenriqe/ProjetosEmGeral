@@ -1,0 +1,13 @@
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.exe
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.deps.json
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.json
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.runtimeconfig.dev.json
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.dll
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\bin\Debug\netcoreapp3.1\programa.pdb
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.csprojAssemblyReference.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfoInputs.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.AssemblyInfo.cs
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.csproj.CoreCompileInputs.cache
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.dll
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.pdb
+E:\6. Estudo-Programação\C#\Udemy - C#\78. Exercício de fixação (listas)\programa\programa\obj\Debug\netcoreapp3.1\programa.genruntimeconfig.cache
