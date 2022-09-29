@@ -15,7 +15,7 @@ namespace Course.Entities
         {
             AdditionalCharge = additionallCharge;
         }
-
+         
         public override double Payment()
         {
             return base.Payment() + 1.1 * AdditionalCharge;
