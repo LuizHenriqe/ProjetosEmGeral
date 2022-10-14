@@ -1,0 +1,16 @@
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.exe
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.deps.json
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.json
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.runtimeconfig.dev.json
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.dll
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\bin\Debug\net5.0\Course.pdb
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.csproj.AssemblyReference.cache
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.AssemblyInfoInputs.cache
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.AssemblyInfo.cs
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.dll
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\refint\Course.dll
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.pdb
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\Course.genruntimeconfig.cache
+C:\Users\lhfl1\source\repos\LuizHenriqe\ProjetosEmGeral\CSharp\Seção - 10 Heranca e polimorfismo\142. Exercicio proposto\Course\Course\obj\Debug\net5.0\ref\Course.dll
