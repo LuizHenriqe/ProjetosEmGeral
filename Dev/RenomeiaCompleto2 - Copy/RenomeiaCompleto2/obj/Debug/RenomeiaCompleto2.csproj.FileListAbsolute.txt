@@ -24,3 +24,16 @@ C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2\RenomeiaCompleto2\obj\D
 C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.csproj.CoreCompileInputs.cache
 C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.exe
 C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.pdb
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\bin\Debug\RenomeiaCompleto2.exe.config
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\bin\Debug\RenomeiaCompleto2.exe
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\bin\Debug\RenomeiaCompleto2.pdb
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.csproj.AssemblyReference.cache
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.csproj.SuggestedBindingRedirects.cache
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.Menu.resources
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.Properties.Resources.resources
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.RenomeiaLoja.resources
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.RenomeiaServidor.resources
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.csproj.GenerateResource.cache
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.csproj.CoreCompileInputs.cache
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.exe
+C:\Projeto\pessoal\ProjetosEmGeral\Dev\RenomeiaCompleto2 - Copy\RenomeiaCompleto2\obj\Debug\RenomeiaCompleto2.pdb
