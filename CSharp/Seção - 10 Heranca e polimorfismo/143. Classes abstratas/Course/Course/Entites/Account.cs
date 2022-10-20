@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Course.Entites {
-    class Account {
+    abstract class Account {
         public int Number { get; protected set; }
         public string Holder { get; protected set; }
         public double Balance { get; protected set; }
