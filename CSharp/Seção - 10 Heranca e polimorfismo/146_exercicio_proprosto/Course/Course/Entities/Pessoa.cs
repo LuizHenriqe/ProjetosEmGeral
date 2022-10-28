@@ -8,15 +8,16 @@ namespace Course.Entities
 {
     abstract class Pessoa
     {
-        public string Nome { get; set; }
-        public double RendaAnual { get; set; }
+        public string Name { get; set; }
+        public double AnualIncome { get; set; }
 
-        public Pessoa(string nome, double rendaAnual)
+        public Pessoa(string name, double anualIncome)
         {
-            Nome= nome;
-            RendaAnual= rendaAnual;
+            Name= name;
+            AnualIncome = anualIncome;
 
         }
-        public abstract double CalcImposto();
+        public abstract double CalculaRenda();
+        public abstract string CalcImpostoRet();
     }
 }
